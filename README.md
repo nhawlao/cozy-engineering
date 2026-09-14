@@ -10,3 +10,6 @@ Durante a oficina, utilizaremos as ferramentas [pySpark](https://spark.apache.or
 
 ## Participando da oficina
 Para exercitar alguns conceitos, faça o download do arquivo .ipynb, acesse o [google colab](https://colab.research.google.com/) e importe o arquivo baixado - ou clique no botão abaixo:
+<a target="_blank" href="https://colab.research.google.com/github/nhawlao/cozy-engineering/blob/main/cozy_engineering.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
